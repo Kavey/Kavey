@@ -20,7 +20,7 @@
 
 <div align="center"><h1>📈 - GitHub Stats</h1></div>
 <!-- Skills Chart Widget 📊 -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kavey&branding=false&show-other-skills=true&bg=transparent" alt="This is always down 😭"/>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kavey&branding=false&show-other-skills=true&bg=transparent&width=550" alt="This is always down 😭"/>
 
 <!-- Visitor Tracker 👀 -->
 ![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=kavey&right_color=black)
