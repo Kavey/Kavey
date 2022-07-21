@@ -1,5 +1,5 @@
-## 😎  About me
-I am Kevin, a tech enthusiast loving to learn and work with new technologies!
+## 👋🏼 Hey, welcome
+A few statistics about me :
 
 ## 💻 - Languages & Frameworks
 <code><img title="HTML5" alt="html5" width="42.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
@@ -11,13 +11,13 @@ I am Kevin, a tech enthusiast loving to learn and work with new technologies!
 <code><img title="GatsbyJS" alt="gatbyjs" width="42.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" /></code>
 <code><img title="Next.js" alt="nextjs" width="42.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
 <code><img title="GraphQL" alt="graphql" width="42.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /></code>
+
+## 🛠 - Things I used to work with
 <code><img title="Lua" alt="lua" width="42.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" /></code>
 <code><img title="Python" alt="python" width="42.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img title="Clojure" alt="clojure" width="42.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" /></code>
 <code><img title="Clojurescript" alt="cljs" width="42.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojurescript/clojurescript-original.svg" /></code>
 <code><img title="C#" alt="csharp" width="42.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></code>
-
-## 🛠 - Tools I use
 
 ## 📈 - GitHub Stats
 <!-- Skills Chart Widget 📊 -->
