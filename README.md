@@ -1,3 +1,5 @@
+<div align="center"><i>Welcome to my profile 👋🏼</i></div>
+
 ## 💻 - Languages & Frameworks
 <code><img title="HTML5" alt="html5" width="42.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="PHP" alt="php" width="42.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
