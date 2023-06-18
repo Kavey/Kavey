@@ -23,4 +23,4 @@
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kavey&branding=false&show-other-skills=true&bg=transparent&width=550" alt="This is always down 😭"/>
 
 <!-- Visitor Tracker 👀 -->
-![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=kavey&right_color=black)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kavey&left_text=%F0%9F%91%80%20&right_color=black)
